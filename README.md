@@ -10,6 +10,8 @@
 ![Sensor](https://img.shields.io/badge/sensor-MLX90614%20IR-orange)
 ![License](https://img.shields.io/badge/license-Academic%20Project-lightgrey)
 
+<img src="assets/IR_Thermometer.png" alt="IR Thermometer" width="360">
+
 </div>
 
 ---
