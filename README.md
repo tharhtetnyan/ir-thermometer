@@ -40,14 +40,13 @@ Beyond core thermometry, the device includes a **motorized rotating sensor head*
 3D-printed PLA enclosure, designed in Autodesk Inventor. The sensor head sits on a rotating hinge driven by the internal servo.
 
 ### Labeled Component Diagram
-
+ 
 <table>
 <tr>
 <td width="45%" align="center">
   <img src="assets/labeled_diagram.png" alt="Labeled front view of device" width="100%">
 </td>
 <td width="55%" valign="middle">
-
 | # | Component | Function |
 |---|---|---|
 | 1 | IR sensor (MLX90614) | Detects forehead IR energy to measure surface temperature |
@@ -56,7 +55,7 @@ Beyond core thermometry, the device includes a **motorized rotating sensor head*
 | 4 | Sensor rotation button | Drives servo to rotate sensor between modes |
 | 5 | Power switch (ON/OFF) | Turns the main power on/off |
 | 6 | Charging port | Input for charging the internal battery |
-
+ 
 </td>
 </tr>
 </table>
