@@ -10,7 +10,7 @@
 ![Sensor](https://img.shields.io/badge/sensor-MLX90614%20IR-orange)
 ![License](https://img.shields.io/badge/license-Academic%20Project-lightgrey)
 
-<img src="assets/IR_Thermometer.png" alt="IR Thermometer" width="360">
+<img src="assets/IR_Thermometer.png" alt="IR Thermometer" width="560">
 
 </div>
 
@@ -41,9 +41,12 @@ Beyond core thermometry, the device includes a **motorized rotating sensor head*
 
 ### Labeled Component Diagram
 
-<p align="center">
-  <img src="assets/labeled_diagram.png" alt="Labeled front view of device" width="45%">
-</p>
+<table>
+<tr>
+<td width="45%" align="center">
+  <img src="assets/labeled_diagram.png" alt="Labeled front view of device" width="100%">
+</td>
+<td width="55%" valign="middle">
 
 | # | Component | Function |
 |---|---|---|
@@ -53,6 +56,10 @@ Beyond core thermometry, the device includes a **motorized rotating sensor head*
 | 4 | Sensor rotation button | Drives servo to rotate sensor between modes |
 | 5 | Power switch (ON/OFF) | Turns the main power on/off |
 | 6 | Charging port | Input for charging the internal battery |
+
+</td>
+</tr>
+</table>
 
 ### OLED UI States
 
@@ -78,9 +85,12 @@ Left to right, top to bottom: Boot, Main Menu, Measuring, Normal result, Fever r
 
 ### Mechanical Dimensions
 
-<p align="center">
-  <img src="assets/dimensions.png" alt="Device dimensions: 45.00mm x 32.83mm x 127.00mm" width="70%">
-</p>
+<table>
+<tr>
+<td width="60%" align="center">
+  <img src="assets/dimensions.png" alt="Device dimensions: 45.00mm x 32.83mm x 127.00mm" width="100%">
+</td>
+<td width="40%" valign="middle">
 
 | Spec | Value |
 |---|---|
@@ -88,6 +98,10 @@ Left to right, top to bottom: Boot, Main Menu, Measuring, Normal result, Fever r
 | Depth (D) | 32.83 mm |
 | Height (H) | 127.00 mm |
 | Weight | 50 g |
+
+</td>
+</tr>
+</table>
 
 ---
 
