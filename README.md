@@ -301,9 +301,7 @@ IR-Thermometer/
 
 ## Author
 
-Project team: Soonchunhyang University Healthcare Device Design Capstone Team
-Course: Healthcare Device Design I (Capstone Design), 2025-2
-Department: Dept. of Biomedical Engineering, College of Medical Sciences
+Thar Htet Nyan
 
 ---
 
